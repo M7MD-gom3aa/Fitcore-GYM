@@ -1,2 +1,1 @@
-# Fitcore-GYM
-​A modern and responsive gym landing page website built with HTML and CSS.
+[🚀 Live Demo - اضغط هنا لمشاهدة الموقع](https://m7md-gom3aa.github.io/Fitcore-GYM/)
