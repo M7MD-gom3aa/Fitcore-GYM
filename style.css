@@ -145,33 +145,19 @@ header img {
   padding-top: 20px;
   margin-top: 20px;
 }
-.more {
+.features {
   float: left;
+  width: calc(100% - 540px); /* الصورة 500px + مسافة صغيرة */
+}
+.more {
   padding-top: 20px;
   margin-top: 20px;
 }
-.group {
-  float: left;
-  border-left: 3px solid black;
-  margin-bottom: 10px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding: 20px;
-}
-.Nutrition {
-  float: left;
-  border-left: 3px solid black;
-  margin-bottom: 10px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding: 20px;
-}
+.group,
+.Nutrition,
 .zone {
-  float: left;
   border-left: 3px solid black;
   margin-bottom: 10px;
-  padding-top: 15px;
-  padding-bottom: 15px;
   padding: 20px;
 }
 .what {
