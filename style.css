@@ -172,13 +172,17 @@ header img {
 .user-card3 {
   padding: 30px;
   float: left;
-  width: 330px;
-  margin-right: 2%;
+  width: 30%;
+  margin-right: 2.5%;
   box-sizing: border-box;
   background-color: #bed5f7;
-  height: 180px;
+  height: 200px;
   border-radius: 8px;
   text-align: center;
+}
+
+.user-card3 {
+  margin-right: 0;
 }
 
 .user-profile,
