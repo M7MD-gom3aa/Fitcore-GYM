@@ -147,7 +147,8 @@ header img {
 }
 .features {
   float: left;
-  width: calc(100% - 540px); /* الصورة 500px + مسافة صغيرة */
+  margin-left: 50px; /* المسافة بين الصورة والنص */
+  width: calc(100% - 550px); /* الصورة 500px + المسافة 50px */
 }
 .more {
   padding-top: 20px;
